@@ -18,6 +18,7 @@ import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
 
+    
     List<Item> items = new ArrayList<>();
     MyAdapter adapter;
 
